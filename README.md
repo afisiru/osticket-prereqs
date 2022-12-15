@@ -47,12 +47,23 @@ Installing SQL 5.5 and PHP version 7.3.
 <br />
 <p>
 
-
 <p>
-<img src="https://imgur.com/gohvKZI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Kyk0DlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installing Osticket application.
+Installing OsTicket.
+</p>
+<br />
+<p>
+
+
+
+
+<p>
+<img src="https://imgur.com/YDvLYb3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assigning permissions for users.
 </p>
 <br />
 <p>
