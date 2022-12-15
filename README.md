@@ -67,4 +67,26 @@ Assigning permissions for users.
 </p>
 <br />
 <p>
+  
+<p>
+<img src="https://imgur.com/rd8ULHA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating a database for OsTicket.
+</p>
+<br />
+<p>
+  
+<p>
+<img src="https://imgur.com/PurlQph.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+OsTicket Successfully Installed.
+</p>
+<br />
+<p>
+  
+
+  
+
 
