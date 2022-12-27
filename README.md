@@ -39,7 +39,7 @@ Enabling IIS.
 <br />
 
 <p>
-<img src="https://imgur.com/0qHqAZk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UPHFlcy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installing SQL 5.5 and PHP version 7.3.
@@ -48,10 +48,10 @@ Installing SQL 5.5 and PHP version 7.3.
 <p>
 
 <p>
-<img src="https://imgur.com/Kyk0DlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/O72YAVq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installing OsTicket.
+Installing OsTicket Application.
 </p>
 <br />
 <p>
@@ -60,7 +60,7 @@ Installing OsTicket.
 
 
 <p>
-<img src="https://imgur.com/YDvLYb3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/poakrRA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Assigning permissions for users.
@@ -69,7 +69,7 @@ Assigning permissions for users.
 <p>
   
 <p>
-<img src="https://imgur.com/rd8ULHA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6xqnggc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Creating a database for OsTicket.
