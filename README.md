@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/2AUIec3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FHUQlWl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Enabling IIS.
